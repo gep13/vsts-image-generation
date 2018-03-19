@@ -452,3 +452,9 @@ _Runtime:_
 _Version:_ 5.7.21.0<br/>
 _Environment:_
 * PATH: contains location of mysql.exe
+
+## Chocolatey
+
+_Version:_ 0.10.8
+_Environment:_
+* PATH: contains location for choco.exe
